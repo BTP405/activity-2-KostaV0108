@@ -20,6 +20,3 @@ def graphSnowfall(t):
     plt.title('Snowfall Distribution')
     plt.show()
 
-# Test the function
-snowfall_file = 'snowfall_data.txt'  # Replace with the actual file path
-graphSnowfall(snowfall_file)
